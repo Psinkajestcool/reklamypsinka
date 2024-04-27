@@ -19,7 +19,8 @@ Oto kod, który musisz dodać do swojej strony:
 <iframe width="528" height="102" style="border:none" src="https://psinkajestcool.github.io/reklamypsinka/embed.html" name="reklamypsinka"></iframe>
 ```
 
-Przykład jak powinno to wyglądać: <iframe width="528" height="102" style="border:none" src="https://psinkajestcool.github.io/reklamypsinka/embed.html" name="reklamypsinka"></iframe>
+Przykład jak powinno to wyglądać: 
+<iframe width="528" height="102" style="border:none" src="https://psinkajestcool.github.io/reklamypsinka/embed.html" name="reklamypsinka"></iframe>
 
 ## Jak mogę dołączyć?
 Wystarczy, że napiszesz do mnie na moim czacie, który znajduje się na końcu mojej strony. (https://nowy-blog-psinki.blogspot.com)
