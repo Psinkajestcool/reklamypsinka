@@ -24,4 +24,4 @@ Przykład jak powinno to wyglądać:
 <iframe width="528" height="102" style="border:none" src="https://psinkajestcool.github.io/reklamypsinka/embed.html" name="reklamypsinka"></iframe>
 
 ## Jak mogę dołączyć?
-Wystarczy, że napiszesz do mnie e-maila na adres "psinkajestcool@pisz.to".
+Wystarczy, że napiszesz do mnie e-maila na adres psinkajestcool@pisz.to.
